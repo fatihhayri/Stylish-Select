@@ -25,6 +25,7 @@ ul.newList a {color: #000; text-decoration:none; display:block;}
 ul.newList {margin:0; padding:0; list-style:none; color:#000; width:290px; background:#fff; position:absolute;  border:1px solid #ccc; top:22px; left:0; overflow:auto; z-index:9999;}
 .newListSelected {width:285px; color:#000; height:19px; padding:3px 0 0 6px; float:left; background:url(select-bg.png) no-repeat;}
 .newListSelected span {width:284px; display:block;}
+ul.newList li{ padding:0 1px;}
 ul.newList li a {padding:3px 8px; display: block;}
 ul.newList li a:focus {-moz-outline-style: none;}
 .selectedTxt {width:258px; overflow:hidden; height:16px; padding:0 23px 0 0;}
